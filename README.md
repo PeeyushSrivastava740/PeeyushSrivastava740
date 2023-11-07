@@ -4,15 +4,13 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peeyushsrivastava740&label=Profile%20views&color=0e75b6&style=flat" alt="peeyushsrivastava740" /> </p>
 
-- 🔭 I’m currently working on **Just Job (Job Searching App)**
+- 🔭 I’m currently working on **Android and Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 👯 I’m looking to collaborate on **Android and Flutter Projects**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+- 🤝 I’m looking for help with **Android and Flutter Projects**
 
-- 🤝 I’m looking for help with **Android Projects**
-
-- 💬 Ask me about **Android , Java , Kotlin**
+- 💬 Ask me about **Android , Java , Kotlin, Dart, Firebase**
 
 - 📫 How to reach me **developergang.co@gmail.com**
 
